@@ -1,0 +1,13 @@
+
+
+<?xml version="1.0" standalone="yes"?>
+<ServerSettings>
+   <address>
+      <id>127.0.0.1</id>
+   </address>
+   <port>
+      <id>9992</id>
+   </port>
+
+
+</ServerSettings>
